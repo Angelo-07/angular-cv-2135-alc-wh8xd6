@@ -10,3 +10,9 @@ h6 {
 p {
   text-align: center;
 }
+hr {
+  position: relative;
+  border: none;
+  height: 5px;
+  background-color: rgb(204, 150, 52);
+}
