@@ -1,0 +1,17 @@
+h4 {
+  text-align: center;
+ }
+ hr {
+   position: relative;
+   border: none;
+   height: 5px;
+   background-color: rgb(204, 150, 52);
+  
+ }
+ .column {
+   width: 290px;
+   text-align: center;
+   margin-right: 1em;
+   margin-left: 1em;
+ 
+ }
